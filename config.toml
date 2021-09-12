@@ -1,4 +1,5 @@
 baseURL = "https://visualpartnership.xyz/blog"
+canonifyURLs=true
 languageCode = "en-us"
 title = "Visual Partner-Ship Blog"
 theme = "winston"

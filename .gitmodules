@@ -1,0 +1,3 @@
+[submodule "themes/winston"]
+	path = themes/winston
+	url = git@github.com:visualpartnership/hugo-winston-theme.git

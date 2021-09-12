@@ -1,3 +1,23 @@
-baseURL = "http://example.org/"
+baseURL = "https://visualpartnership.xyz/blog"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Visual Partner-Ship Blog"
+theme = "winston"
+
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+paginate = 3
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
+
+[params]
+  google_analytics_id = ""
+  twitter_handle = "@visual_partner"
+  showAuthorOnHomepage = true
+  showAuthorOnPosts = true
+  showPostsOnHomepage = false
+  addFrame = true
+  addDot = true
